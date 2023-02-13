@@ -20,7 +20,7 @@ Atualmente, fazendo curso Dev-club Full-stack :computer:
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)    
 
 ## Connect with me
- <a href="](https://www.linkedin.com/in/guilherme-melo-718b57250/)">
+<a href="https://www.linkedin.com/in/guilherme-melo-718b57250/" >
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
   </a>
   
